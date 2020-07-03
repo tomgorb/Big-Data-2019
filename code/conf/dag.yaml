@@ -1,0 +1,15 @@
+path: /path/to/code
+
+google_cloud:
+  credentials_json_file: ''
+  project_prefix: ''
+
+google_gcs:
+  bucket_id: ''
+
+tasks:
+  - preprocess
+  - train
+  - test
+
+env: local

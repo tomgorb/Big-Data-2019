@@ -1,0 +1,2 @@
+google-pandas-import-export==1.1rc0
+mymodel=0.0.1
